@@ -1,5 +1,5 @@
 # Nome do projeto:
-Scanner-de-Portas
+Scanner-de-Portas simples
 
 # Breve Descrição:
 O scanner de portas TCP é uma ferramenta de software projetada para identificar o estado das portas em um computador ou dispositivo de rede.
